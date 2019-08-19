@@ -2,5 +2,9 @@ From Porcupine folder:
 
 tools\optimizer\windows\amd64\pv_porcupine_optimizer.exe -r resources\optimizer_data -w "Animate" -p windows -o danwords
 
+npm i -g http-server
+http-server -a localhost -p 9000
+
+
 
 
