@@ -5,6 +5,10 @@ tools\optimizer\windows\amd64\pv_porcupine_optimizer.exe -r resources\optimizer_
 npm i -g http-server
 http-server -a localhost -p 9000
 
+npm i -g live-server
+npm i -g live-server-https
+live-server --https=c:\pkg\node-v10.16.2\node_modules\live-server-https
+
 
 
 
